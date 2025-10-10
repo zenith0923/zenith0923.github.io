@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/) and Dr. [Zixia Jia](https://jzxxx.github.io/) from the BIGAI, NLCo Group.
+I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/) and Dr. [Zilong Zheng](https://zilongzheng.github.io/) and Dr. [Zixia Jia](https://jzxxx.github.io/) from the BIGAI, NLCo Group.
 
-My research interests are primarily focused on 3D Visual Grounding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
+My research interests are primarily focused on 3D Scene Understanding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One paper is accepted by TCSVT (SCI-1)! 
@@ -79,6 +79,7 @@ _AAAI (CCF-A)_
 </div>
 
 # 🎖 Honors and Awards
+- *2024.11*: Outstanding Award for Medium-term Evaluation, Shandong University.
 - *2024.10* First-Class Doctoral Scholarship of SDU.
 - *2023.10* Outstanding Graduate Student of SDU.
 - *2022.06* Outstanding Graduates of SDU. 
@@ -86,5 +87,10 @@ _AAAI (CCF-A)_
 # 📖 Educations
 - *2022.06 - 2027.06(expected)*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
 
-- *2018.09 - 2022.06*, B.Eng., Software Engineering (Artificial Intelligence Experimental Class), School of Software, Shandong University. 
+- *2018.09 - 2022.06*, B.Eng., Software Engineering (Artificial Intelligence Experimental Class), School of Software, Shandong University.
+
+# 💻 Professional Activities (Program Committee & Reviewer)
+- AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+- ACM International Conference on Multimedia (**MM**): 2025
+- Elsevier Journal of Neurocomputing
 
