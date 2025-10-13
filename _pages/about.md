@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/) and Dr. [Zilong Zheng](https://zilongzheng.github.io/) and Dr. [Zixia Jia](https://jzxxx.github.io/) from the BIGAI, NLCo Group.
+I am currently a Ph.D. student in a joint program between Shandong University ([SDU](https://www.sdu.edu.cn/index.htm)) and the Beijing Institute for General Artificial Intelligence ([BIGAI](https://www.bigai.ai/)). I am jointly supervised by Prof. [Xin-Shun Xu](https://faculty.sdu.edu.cn/xuxinshun/zh_CN/index.htm) and [Zhen-Duo Chen](https://faculty.sdu.edu.cn/chenzhenduo1/zh_CN/index.htm) from the [MIMA Lab](https://mima.sdu.edu.cn/); Dr. [Zixia Jia](https://jzxxx.github.io/) and Dr. [Zilong Zheng](https://zilongzheng.github.io/)from the BIGAI, NLCo Group.
 
 My research interests are primarily focused on 3D Scene Understanding, Multimodal Large Language Models, as well as Fine-grained Few-shot Learning.
 
