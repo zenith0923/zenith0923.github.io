@@ -90,7 +90,7 @@ _AAAI (CCF-A)_
 - *2018.09 - 2022.06*, B.Eng., Software Engineering (Artificial Intelligence Experimental Class), School of Software, Shandong University.
 
 # 💻 Professional Activities (Program Committee & Reviewer)
-- AAAI Conference on Artificial Intelligence (**AAAI**) 2025
+- AAAI Conference on Artificial Intelligence (**AAAI**): 2025
 - ACM International Conference on Multimedia (**MM**): 2025
 - Elsevier Journal of Neurocomputing
 
