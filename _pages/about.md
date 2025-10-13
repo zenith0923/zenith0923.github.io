@@ -79,7 +79,7 @@ _AAAI (CCF-A)_
 </div>
 
 # 🎖 Honors and Awards
-- *2024.11*: Outstanding Award for Medium-term Evaluation, Shandong University.
+- *2024.11* Outstanding Award for Medium-term Evaluation, Shandong University.
 - *2024.10* First-Class Doctoral Scholarship of SDU.
 - *2023.10* Outstanding Graduate Student of SDU.
 - *2022.06* Outstanding Graduates of SDU. 
