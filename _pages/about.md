@@ -79,10 +79,14 @@ _AAAI (CCF-A)_
 </div>
 
 # 🎖 Honors and Awards
+- *2025.12* Doctoral Student Special Program of the China Association for Science and Technology Youth Science and Technology Talent Cultivation Project.
+- *2025.11* President’s Scholarship (for Graduate Students), Shandong University.
+- *2025.10* National Scholarship, China.
+- *2025.10* First-Class Doctoral Scholarship, Shandong University.
 - *2024.11* Outstanding Award for Medium-term Evaluation, Shandong University.
-- *2024.10* First-Class Doctoral Scholarship of SDU.
-- *2023.10* Outstanding Graduate Student of SDU.
-- *2022.06* Outstanding Graduates of SDU. 
+- *2024.10* First-Class Doctoral Scholarship, Shandong University.
+- *2023.10* Outstanding Graduate Student, Shandong University.
+- *2022.06* Outstanding Graduates, Shandong University. 
 
 # 📖 Educations
 - *2022.06 - 2027.06(expected)*, Ph.D, Artificial Intelligence, School of Software, Shandong University. 
